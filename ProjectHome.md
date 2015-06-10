@@ -1,0 +1,1 @@
+Grid based Pokemon game in the style of Final Fantasy Tactics and Disgaea. Created in RPG Maker VX.
